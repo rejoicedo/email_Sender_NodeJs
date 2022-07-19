@@ -4,7 +4,7 @@ Sending Automated Mails from my NodeJs App to my Gmail Account
 I used Nodemailer(An email sender package in NodeJs).
 NOTE: All files were uploaded manually
 
-1. A contact form was created for which an individual can send his details
+1. A contact form was created for which an individual can send his details. (Contact Form code in contacts.ejs)
 2. A bulk messaging system was applied, whereby i am able to send mail to more than 1 person.
 
 Below is the mail sent to my gmail account from my form
