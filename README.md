@@ -1,4 +1,4 @@
-# email_Sender_NodeJs
+# Email Sender NodeJs
 
 Sending Automated Mails from my NodeJs App to my Gmail Account
 I used Nodemailer(An email sender package in NodeJs).
